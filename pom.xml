@@ -31,8 +31,7 @@
     <repository>
         <id>central</id>
         <name>58db01bdc279-releases</name>
-        <url>http://192.168.99.100:8082/artifactory/libs-release-local</url>
+        <url>http://192.168.99.100:8082/artifactory/libs-release</url>
     </repository>
 </distributionManagement>
-
 </project>
